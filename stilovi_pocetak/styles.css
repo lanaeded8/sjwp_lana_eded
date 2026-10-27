@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(235, 216, 227);
+}
+/* pristup elementu preko id  */
+#naslov2 {
+  color: rgb(177, 31, 31);
+}
+/* pristip elementu preko klase */
+.naslov3 {
+  color: rgb(231, 211, 98);
+}
